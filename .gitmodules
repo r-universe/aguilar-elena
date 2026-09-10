@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "ERBioR"]
+	path = ERBioR
+	url = https://github.com/aguilar-elena/erbior
 [submodule "expoquimR"]
 	path = expoquimR
 	url = https://github.com/aguilar-elena/expoquimr
